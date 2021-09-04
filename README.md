@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Django for Back-End
 - 💞️ I’m looking to collaborate on Software Development
 - 📫 How to reach me adigungodwin2@gmail.com
+- Languages and Tools
 
 <!---
 Goddy01/Goddy01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
