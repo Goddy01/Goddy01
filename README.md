@@ -45,7 +45,7 @@ I'm open to collaborating on projects that involve backend engineering, Python d
 
 - Email: adigungodwin2@gmail.com
 - LinkedIn: [Godwin Adigun](https://linkedin.com/in/godwin-adigun-b5a138219)
-- Twitter: [@yourtwitterhandle](https://twitter.com/toshirothethird)
+- Twitter: [@toshiro](https://twitter.com/toshirothethird)
 
 Looking forward to connecting with you!
 
