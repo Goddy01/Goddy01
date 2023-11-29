@@ -15,15 +15,19 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - CSS
 - Bootstrap
 - Javascript
+- jQuery
 - AJAX
 - Python
 - Django
+- Django Channel
 - Django Rest Framework
+- Websocket
 - Docker
 - Google Cloud Platform
 - Amazon S3
 - PostgreSQL
 - REST APIs
+- Integrating third-party APIs and packages such as: Paystack Payment Gateway, Google OAuth, TMDB, CKEditor, etc
 
 ## 💼 Currently Working On
 
