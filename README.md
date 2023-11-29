@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Google Cloud Platform
 - Amazon S3
 - Git
-- PostgreSQL
+- SQL (PostgreSQL, MySQL)
 - REST APIs
 - Integrating third-party APIs and packages such as: Paystack Payment Gateway, Google OAuth, TMDB, CKEditor, etc
 
