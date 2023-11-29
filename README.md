@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, with a keen interest in Software Development, Machine Learning, and Artificial Intelligence.
 
-## 👀 What I'm into
+## 👀 What I'm interested in
 
 - 🚀 Backend Development
 - 🐍 Python Programming
@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Docker
 - Google Cloud Platform
 - Amazon S3
+- Git
 - PostgreSQL
 - REST APIs
 - Integrating third-party APIs and packages such as: Paystack Payment Gateway, Google OAuth, TMDB, CKEditor, etc
