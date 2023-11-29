@@ -11,12 +11,17 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 
 ## 🌱 My Skills
 
+- HTML
+- CSS
+- Bootstrap
 - Javascript
 - AJAX
 - Python
 - Django
 - Django Rest Framework
 - Docker
+- Google Cloud Platform
+- Amazon S3
 - PostgreSQL
 - REST APIs
 
