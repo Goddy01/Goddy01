@@ -34,7 +34,6 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 
 - Exploring new technologies
 - Improving my coding skills especially in backend development in developing secure,scalable and many more features into application
-- Crafting secure, scalable, and feature-rich applications
 - Incorporating the latest best practices and technologies into my work
 
 ## 💞 Let's Collaborate
