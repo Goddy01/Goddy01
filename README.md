@@ -36,6 +36,8 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Improving my coding skills especially in backend development in developing secure,scalable and many more features into application
 - Incorporating the latest best practices and technologies into my work
 
+## 💼 Github Wrapped
+
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Goddy01/repos?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 ## 💞 Let's Collaborate
