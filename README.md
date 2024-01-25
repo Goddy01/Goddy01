@@ -23,10 +23,11 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Django Rest Framework
 - Websocket
 - Docker
-- Google Cloud Platform
+- Google App Engine
 - Amazon S3
 - Git
 - Celery
+- Redis
 - RabbitMQ
 - SQL (PostgreSQL, MySQL)
 - REST APIs
