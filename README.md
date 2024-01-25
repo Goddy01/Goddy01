@@ -30,7 +30,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Redis
 - RabbitMQ
 - SQL (PostgreSQL, MySQL)
-- REST APIs
+- Building RESTful APIs
 - Integrating third-party APIs and packages such as: Paystack Payment Gateway, Google OAuth, TMDB, CKEditor, etc
 
 ## 💼 Currently Working On
