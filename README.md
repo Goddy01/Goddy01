@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 
 - 🚀 Backend Development
 - 🐍 Python Programming
+- 🐘 PHP Programming
 - 🤖 Machine Learning
 - 🧠 Artificial Intelligence
 
@@ -17,6 +18,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Javascript
 - jQuery
 - AJAX
+- PHP
 - Python
 - Django
 - Django Channel
