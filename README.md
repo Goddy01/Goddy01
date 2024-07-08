@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - Javascript
 - jQuery
 - AJAX
+- React
+- Redux
 - PHP
 - Python
 - Django
