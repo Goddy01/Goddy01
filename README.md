@@ -15,11 +15,11 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - HTML
 - CSS
 - Bootstrap
+- Tailwind CSS
 - Javascript
 - jQuery
 - AJAX
 - React
-- Redux
 - PHP
 - Python
 - Django
@@ -39,8 +39,9 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 
 ## 💼 Currently Working On
 
+- Crafting innovative web applications with a focus on clean code and seamless user experiences
 - Exploring new technologies
-- Improving my coding skills especially in backend development in developing secure,scalable and many more features into application
+- Improving my coding skills especially in full-stack development in developing secure,scalable and many more features into application
 - Incorporating the latest best practices and technologies into my work
 
 ## 💼 Github Wrapped
@@ -55,7 +56,7 @@ I'm open to collaborating on projects that involve backend engineering, Python d
 
 - Email: adigungodwin2@gmail.com
 - LinkedIn: [Godwin Adigun](https://linkedin.com/in/godwin-adigun-b5a138219)
-- Twitter: [@toshiro](https://twitter.com/toshirothethird)
+- Twitter: [@toshirothethird](https://twitter.com/toshirothethird)
 
 Looking forward to connecting with you!
 
