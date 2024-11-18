@@ -20,7 +20,10 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 - jQuery
 - AJAX
 - React
+- Typescript
 - PHP
+- Rust
+- Anchor
 - Python
 - Django
 - Django Channel
@@ -50,7 +53,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 
 ## 💞 Let's Collaborate
 
-I'm open to collaborating on projects that involve backend engineering, Python development, or anything interesting! Feel free to reach out if you have a project idea or just want to chat.
+I'm open to collaborating on projects that involve blockchain development, backend engineering, Python development, or anything interesting! Feel free to reach out if you have a project idea or just want to chat.
 
 ## 📫 How to Reach Me
 
