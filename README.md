@@ -4,6 +4,7 @@ Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, 
 
 ## 👀 What I'm interested in
 
+- ⛓️ Blockchain Development
 - 🚀 Backend Development
 - 🐍 Python Programming
 - 🐘 PHP Programming
