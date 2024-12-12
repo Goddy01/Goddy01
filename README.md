@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Godwin Adigun.
 
-Welcome to my GitHub! I'm a passionate Backend Developer and Python enthusiast, with a keen interest in Software Development, Machine Learning, and Artificial Intelligence.
+Welcome to my GitHub! I'm a passionate Blockchain Engineer & a Fullstack Developer, with a keen interest in Blockchain, Software Development, Machine Learning, and Artificial Intelligence.
 
 ## 👀 What I'm interested in
 
