@@ -21,6 +21,8 @@ Welcome to my GitHub! I'm a passionate Blockchain Engineer & a Fullstack Develop
 - jQuery
 - AJAX
 - React
+- Node.js
+- Nest.js
 - Typescript
 - PHP
 - Rust
